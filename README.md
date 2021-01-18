@@ -54,7 +54,7 @@ O prazo de entrega será até às 23:59 do dia 26/01/2021.
 - Colocar o código fonte do seu projeto dentro da pasta frontend ou backend, de acordo com o que você escolheu fazer.
 - Mandar um email para `selecaogcti@parnamirim.rn.gov.br` com o assunto: `PROJETO SELEÇÃO DEV`. No corpo da mensagem o link para o seu fork.
 
-Não apague este README.md. Caso tenha observações a fazer, crie um arquivo README.md dentro da pasta do seu projeto com orientações de execução do mesmo.
+Não apague este README.md. Crie um arquivo README.md dentro da pasta do seu projeto com orientações de execução do mesmo, e caso possua alguma observação a fazer ponha no README.md também
 
 **Bom projeto!**
 
