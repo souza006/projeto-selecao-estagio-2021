@@ -52,9 +52,10 @@ O prazo de entrega será até às 23:59 do dia 26/01/2021.
 
 - Você irá criar um fork deste projeto;
 - Colocar o código fonte do seu projeto dentro da pasta frontend ou backend, de acordo com o que você escolheu fazer.
-- Mandar um email para `selecaogcti@parnamirim.rn.gov.br` com o assunto: `Seu nome – PROJETO SELEÇÃO DE ESTAGIO 2021`. No corpo da mensagem o link para o seu fork.
-- Não apague este README.md. Caso tenha observações a fazer, crie um arquivo README.md dentro da pasta do seu projeto com orientações de execução do mesmo.
+- Mandar um email para `selecaogcti@parnamirim.rn.gov.br` com o assunto: `PROJETO SELEÇÃO DEV`. No corpo da mensagem o link para o seu fork.
 
-Bom projeto!
+Não apague este README.md. Caso tenha observações a fazer, crie um arquivo README.md dentro da pasta do seu projeto com orientações de execução do mesmo.
 
-Equipe GCTI
+**Bom projeto!**
+
+**Equipe GCTI**
