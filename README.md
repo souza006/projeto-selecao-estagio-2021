@@ -16,13 +16,13 @@ De acordo com as necessidades descritas no item acima, podemos identificar que t
 
 - Visualização pública dos veículos a venda: Neste módulo o sistema deverá disponibilizar uma lista dos veículos cadastrados e ao selecionar um item da lista, deverá mostrar os detalhes do mesmo.
 - Administração do sistema: Neste módulo o sistema deverá disponibilizar uma ferramenta de administração dos veículos, contendo obrigatoriamente os dados a seguir:
-- Foto;
-- Tipo do veículo;
-- Marca;
-- Modelo;
-- Ano;
-- Preço;
-- Descrição.
+  - Foto;
+  - Tipo do veículo;
+  - Marca;
+  - Modelo;
+  - Ano;
+  - Preço;
+  - Descrição.
 
 ### Frontend
 
@@ -56,4 +56,5 @@ O prazo de entrega será até às 23:59 do dia 26/01/2021.
   Não apague este README.md. Caso tenha observações a fazer, crie um arquivo README.md dentro da pasta do seu projeto com orientações de execução do mesmo.
 
 Bom projeto!
+
 Equipe GCTI
