@@ -10,7 +10,7 @@ Nada impede você de desenvolver o frontend e backend.
 
 ### Período de entrega
 
-Apartir de 18/01/2021 você tem 7 dias (1 semana) para entregar o projeto, no caso até dia 24/01/2021 23h:59m. Posso entregar depois? Pode, mas não garantimos nada.
+O período de entrega será 1 semana apartir do dia da confirmação do recebimento. Por exemplo, se recebeu em 18/01/2021 você tem 7 dias (1 semana) para entregar o projeto, no caso até dia 24/01/2021 23h:59m. Posso entregar depois? Pode, mas não garantimos nada.
 
 ### Entrega do projeto
 
@@ -49,9 +49,9 @@ Procurar manter um código limpo e coeso evitando a realização do POG’s (Pro
 
 ### Frontend
 
-O projeto frontend **deve** ser feito utilizando o framework [Angular](https://angular.io/).
+O projeto frontend **deve** ser feito utilizando o framework [Angular](https://angular.io/). O framework de estilo **deve** ser o [Bootstrap](https://getbootstrap.com/).
 
-Você será responsável pelo desenvolvimento da interface do usuário. A estrutura do projeto, os nomes dos componentes, módulos e rotas são de sua escolha. As boas práticas do uso do framework são indispensáveis e terão PESO na avaliação. Você **deve** fazer requisições para alguma API pra recuperar os dados. Você pode usar alguma biblioteca para _mockar_ o backend, algumas opções: [json-server](https://github.com/typicode/json-server), [MirageJS](https://miragejs.com/), [Exemplo usando o MirageJS com Angular](https://github.com/smkamranqadri/angular-mirage-sample)
+Você será responsável pelo desenvolvimento da interface do usuário. A estrutura do projeto, os nomes dos componentes, módulos e rotas são de sua escolha. As boas práticas do uso do framework são indispensáveis e terão PESO na avaliação. O bom uso do [Rxjs](https://rxjs-dev.firebaseapp.com/guide/overview) também faz parte das boas práticas. Você **deve** fazer requisições para alguma API pra recuperar os dados. Você pode usar alguma biblioteca para _mockar_ o backend, algumas opções: [json-server](https://github.com/typicode/json-server), [MirageJS](https://miragejs.com/), [Exemplo usando o MirageJS com Angular](https://github.com/smkamranqadri/angular-mirage-sample)
 
 ### Backend
 
