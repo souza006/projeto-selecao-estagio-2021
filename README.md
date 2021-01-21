@@ -46,7 +46,7 @@ Você será responsável pelo desenvolvimento da API Rest desta aplicação. A e
 
 ### Prazo de Entrega
 
-O prazo de entrega será até às 23:59 do dia 26/01/2021.
+O prazo de entrega será até às 23:59 do dia 29/01/2021.
 
 ### Entrega do Projeto
 
