@@ -1,0 +1,49 @@
+{
+    "veiculos": [
+        {
+            "id": 1,
+            "tipoVeiculo": "pickup",
+            "marca": "Chevrolet",
+            "modelo": "S10",
+            "ano": "2015",
+            "price": 45.000,
+            "descricao": "Carro muito bom e bastante economico."
+        },
+        {
+            "id": 2,
+            "tipoVeiculo": "sedan",
+            "marca": "Chevrolet",
+            "modelo": "Cobalt",
+            "ano": "2019",
+            "price": 80.000,
+            "descricao": "Carro muito bom e bastante economico."
+        },
+        {
+            "id": 3,
+            "tipoVeiculo": "sedan",
+            "marca": "Chevrolet",
+            "modelo": "Prisma",
+            "ano": "2015",
+            "price": 35.000,
+            "descricao": "Carro muito bom e bastante economico."
+        },
+        {
+            "id": 4,
+            "tipoVeiculo": "sedan",
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "ano": "2020",
+            "price": 60.000,
+            "descricao": "Carro muito bom e bastante economico."
+        },
+        {
+            "id":5,
+            "tipoVeiculo" : "Esportivo",
+            "marca": "Chebrolet",
+            "modelo":"Camaro" ,
+            "ano": "2017",
+            "price": 500.000 ,
+            "descricao": "Carro muito bom e bastante economico." 
+        }
+    ]
+}
